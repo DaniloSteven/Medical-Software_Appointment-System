@@ -1,0 +1,31 @@
+Battle Field Medic,BAT5362
+Combat Medic,COM1257
+Allergy-and-Immunology,ALL8698
+Cardiology,CAR6346
+Health Informatics,HEA9270
+Neurology,NEU5604
+Surgery,SUR6919
+Infectious diseases,INF5244
+Laboratory medicine,LAB9103
+Exomedicine,EXO4896
+Xeno Immunology,XEN4245
+Anaesthesiology,ANA5319
+General Practice,GEN3947
+Microbiology,ELE5944
+Pulmonology,PUL1770
+Neurosurgery,NEU9331
+General surgery,GEN2149
+Plastic and Reconstructive Surgery,PLA6957
+Virology,VIR8156
+Sports Medicine,SPO10665
+Oral medicine,ORA1369
+Surgical oncology,SUO6071
+Transplant surgery,TRA2995
+Oncology,ONC6806
+Family Medicine,FAM3938
+Emergency medicine,EME3040
+Clinical laboratory sciences,CLI1868
+Gynecology,GYN5868
+Xeno Medicine,XEM9331
+Xeno Surgery,XES4024
+Vascular medicine,VAS10313

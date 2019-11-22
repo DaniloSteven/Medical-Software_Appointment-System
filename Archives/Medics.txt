@@ -1,0 +1,29 @@
+1,Lena,Oxton,15045698,Battle Field Medic,3256988745,26,2,2989/10/17,overwatchTracer@outlook.com,Tracer.jpg
+2,Annette,Birkin,15698745,Virology,3215897498,36,2,1979/05/06,theGviruswife@umbrella.com,Annette.jpg
+3,William,Birkin,17866393,Virology,3105986325,53,1,1962/08/30,MypreciousG-virus@umbrella.com,William.jpg
+4,Federic,Downing,25469831,General Practice,3159874632,46,1,1969/09/13,Federic.dowharvardville@willpharma.com,Frederic2.jpg
+5,Angela,Miller,26595478,Allergy-and-Immunology,3205698741,36,2,1979/02/25,AngelicS.R.T.pdwmp5k@harvardwille.com,Angelic.jpg
+6,Svetlana,Belikova,45698712,General Practice,3154789632,42,2,1973/12/05,SvetBelikova@republicaeslava.com,stev.jpg
+7,Ada,Wong,17324698,Sports Medicine,3189547565,41,2,1974/09/01,AdaWongspy@raccooncity.com,AdaW.jpg
+8,Egon,Stetmann,12345678,Allergy-and-Immunology,3156489512,24,1,1993/12/12,lookatmeiamawesome.10@TerranAlliance.com,egon.jpg
+9,Harry,Shearer,45698771,Surgery,3148796523,65,1,1950/08/25,sciencevessel.Starcraft@terrandominion.com,Science.jpg
+10,Alyssa,Ashcroft,16987452,Health Informatics,3148965741,28,2,1987/11/03,theRaccoonTmes@raccooncity.com,Alyssa.jpg
+11,Rosa,Morales,12512525,Combat Medic,3250001236,35,2,1980/01/14,LT.Morales@UnitedEarthDirectorate.com,lt morales.jpg
+12,Mari,Suzek,35698741,Combat Medic,3502569874,37,2,1978/03/03,MariSuzek@TerranAlliance.com,Mari.jpg
+13,Ariel,Hanson,17356874,Microbiology,3103103100,34,2,1981/04/02,ArielH.Agriacolony@Terranalliance.com,Ariel.jpg
+14,Albert,Wesker,15489653,Laboratory medicine,3102589742,55,1,1960/03/07,AlberWeskerforPresident@umbrella.com,albert.jpg
+15,Leon Scott,Kennedy,17818075,Cardiology,3125469874,38,1,1977/08/28,RPDforever@raccooncity.com,leon.jpg
+16,Chris,Redfield,18180100,Infectious diseases,3254789651,39,1,1974/02/13,STARSalphateam@racooncity.com,Chris_Redfield2.jpg
+17,Piers,Nivans,17867456,Plastic and Reconstructive Surgery,3245698741,26,1,1989/05/01,BSAAnorthamerica@raccooncity.com,piers.jpg
+18,Nemesis,T-Type,23365000,Oral medicine,3212121212,45,1,1970/08/13,aaaarrrrggghhhSTARS@racconcity.com,nemi.jpg
+19,Rebecca,Chambers,12547891,Emergency medicine,3213232555,24,2,1991/06/23,OfficerChambersforyou@racconcity.com,rebecca.jpg
+20,November Annabella "Nova",Terra,41822369,Neurology,3125496354,28,2,1987/07/25,AgentX41822N.Nova@TerranDominion.com,nova.jpg
+21,Jacob,Taylor,25698448,Oral medicine,3256489874,45,1,1970/11/19,Tayloroperative@Cerberus.com,jacob.jpg
+22,Jimes Eugenio,Raynor,23659874,General Practice,3115489654,47,1,1968/07/20,JimRaynor@TerranAlliance.com,jim.jpg
+23,Sarah Louise,Kerrigan,25698741,Neurology,3202526272,30,2,1985/07/20,QueenOfBlades@TerranAlliance.com,sarah.jpg
+24,Samantha,Traynor,12354698,Gynecology,3265489753,30,2,1985/03/03,SpecialistTraynorSR2@SystemAlliance.com,samantha.jpg
+25,Kelly,Chambers,25361478,Gynecology,3195647891,32,2,1983/07/07,YeomanChambersSR2@SystemsAlliance.com,kelly.jpg
+26,Darth Anakin,Vader Skywalker,23569847,Plastic and Reconstructive Surgery,3245698700,28,1,1987/01/15,AnakinSkywalker@sithempire.com,DArth.jpg
+27,EDI,Enhanced Defense Intelligence,23145698,Neurosurgery,3154789635,5,2,2010/04/04,AlwaysOptimalCapacity@cerberus.com,edi.jpg
+28,Claire,Redfield,22022020,General Practice,3254789632,36,2,1979/08/28,ClaireRedfield@TerraSave.com,claire.jpg
+29,Cassandra Allegra Portiria Caloguera Filomena,Pentaghast,29229045,Cardiology,3214569872,37,2,1988/01/19,SeekersOfTheThruth@Chantry.com,cassandra2.jpg
