@@ -1,1 +1,0 @@
-Net Beans project metadata
